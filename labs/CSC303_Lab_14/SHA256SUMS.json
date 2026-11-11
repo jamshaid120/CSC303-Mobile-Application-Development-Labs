@@ -1,0 +1,15 @@
+{
+  "README.md": "c854e86e7219beeb7ad2977d5cffa849fb9d54e0bc5dd6020100b90f69281765",
+  "CSC303_Lab_14_Manual_Excerpt.pdf": "4f528dd26f8f00f3b5b9bc3511aff7d5eb9d0ebe2eb038969ffd97b5b0d6286e",
+  "task_02/.gitignore": "4e6283f1840c8030338f799c07732de20782a79d6630945e7f6bce904693909e",
+  "task_02/setup.sh": "834d5129e4f46e41e1041c6bab5cb04d99c8d8516e4b0957b07fcb09ba8041a3",
+  "task_02/README.md": "9210a2f6f6ae56e3648966e103245af6ca1cffc17ac6d24ccb7529b5a5021067",
+  "task_02/pubspec.yaml": "1fc8b24301e16b632f669c39bdf8d067245aa2e93465f045f90af7d368184930",
+  "task_01/.gitignore": "4e6283f1840c8030338f799c07732de20782a79d6630945e7f6bce904693909e",
+  "task_01/setup.sh": "0137a11c7e6d839d31cbdaffe4867f3bc663022fa19732c62058f1fd208f8eb6",
+  "task_01/README.md": "f122d9b1bc79700f38e984802b212631284113311562fac37c00373c5b5daeea",
+  "task_01/pubspec.yaml": "5a3648cf85f1b8f46eba9eef19da04a9bdfbb2d2e30dedaee63777f52622ed86",
+  "task_01/lib/main.dart": "9792c8063c3953ddfaf0c02c976e63e13875e9d5ecdf945b4655d8466f73fa36",
+  "task_02/lib/main.dart": "124dc7a62005c222f56e6906be7344250cdf243a554d12ad1a479fb27af3f7de",
+  "task_02/platform_overrides/android/app/src/main/kotlin/edu/cui/sahiwal/mad_native_demo/MainActivity.kt": "b9975b8e18c7353cc6ceb4de246149eb2b27e68faf5ba1b06c9a997f6b4aaea0"
+}

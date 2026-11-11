@@ -1,0 +1,9 @@
+*.zip binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.dart text eol=lf
+*.sh text eol=lf
+*.md text eol=lf

@@ -1,0 +1,28 @@
+# Flutter / Dart generated artifacts
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/coverage/
+# IDE and system
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+# Credentials and signing material
+**/.env
+**/.env.*
+**/*service-account*.json
+**/*service_account*.json
+**/*.jks
+**/*.keystore
+**/*.p12
+**/*.pem
+**/android/key.properties
+**/lib/firebase_options.dart
+# Never commit a nested generated git history
+**/.git/

@@ -1,0 +1,20 @@
+{
+  "CSC303_Lab_13_Manual_Excerpt.pdf": "fd9d1904e71a9f6711968cf727106d1c07c031aa920543674c77e1e483856c4c",
+  "README.md": "38f80b853afadb4d45e1df0dd197240287f9025590af8a34ae1b63925fc48a98",
+  "task_02/.gitignore": "4e6283f1840c8030338f799c07732de20782a79d6630945e7f6bce904693909e",
+  "task_02/setup.sh": "b4db94f68c3dcbe6cf2f993d2e03829a59440f44207bc51b18204077481a8ecb",
+  "task_02/README.md": "df226d003aed877e910cb568ba210d4b945f5752558732c16e2e4c8703ffca5d",
+  "task_02/pubspec.yaml": "ce2e41bea7de6391e96f9f0aad08646110bfcd23f3263b1944e955a6acfb40a8",
+  "task_01/.gitignore": "4e6283f1840c8030338f799c07732de20782a79d6630945e7f6bce904693909e",
+  "task_01/setup.sh": "b4db94f68c3dcbe6cf2f993d2e03829a59440f44207bc51b18204077481a8ecb",
+  "task_01/README.md": "dc132d5307c3a02da3b0468f12c59c939b119813ced2bb4126ab2b3e75518c6d",
+  "task_01/pubspec.yaml": "ce2e41bea7de6391e96f9f0aad08646110bfcd23f3263b1944e955a6acfb40a8",
+  "task_01/test/course_viewmodel_test.dart": "70c9a30c08fd804400ac91ae71d3af94436610bc43a2f730dbc70e217247eee3",
+  "task_01/lib/main.dart": "c10e94b87c887056d5db7a33d4db879e12fc785ab5897f4b2d6d7c665758b4c2",
+  "task_01/lib/data/course_repository.dart": "4f35b302abf2dadad8bb77e9a0ecc634dbb435a6b157199da90b12beacdc9137",
+  "task_01/lib/viewmodel/course_viewmodel.dart": "97b86965fe3443c5e7f5695bb1b67f6cfa5ae81afd1a0b8a15d212fd3eb0058d",
+  "task_02/test/widget_test.dart": "67ac19b3c1922b0f0c8a1a3348343c5731dcfecd8409104e776ba4cda3f6f47e",
+  "task_02/test/course_math_test.dart": "d0b81ce52d5d88ccde7f6bb2349aba0e6e8091378ec7c367bc316a6248ef3e57",
+  "task_02/lib/course_math.dart": "98de1efa955664aef3d5ea8631121586136176cb06910a172c0128e8bad37503",
+  "task_02/lib/main.dart": "9415096d117a86bb1bf0c0aa4dc040025b2dfd333f13254633ccb0fb0defe899"
+}

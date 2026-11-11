@@ -1,0 +1,160 @@
+{
+  "CSC303_Lab_01": {
+    "name": "Professional setup, Git & GitHub",
+    "zip": "CSC303_Lab_01.zip",
+    "files": 11,
+    "code_files": [
+      "task_02/lib/main.dart",
+      "task_02/test/widget_test.dart"
+    ],
+    "pdf_pages": 11
+  },
+  "CSC303_Lab_02": {
+    "name": "Dart foundations and Flutter anatomy",
+    "zip": "CSC303_Lab_02.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 6
+  },
+  "CSC303_Lab_03": {
+    "name": "Widget tree and adaptive UI",
+    "zip": "CSC303_Lab_03.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 4
+  },
+  "CSC303_Lab_04": {
+    "name": "Forms, validation and local UI state",
+    "zip": "CSC303_Lab_04.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 3
+  },
+  "CSC303_Lab_05": {
+    "name": "Navigation, routes and data passing",
+    "zip": "CSC303_Lab_05.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 3
+  },
+  "CSC303_Lab_06": {
+    "name": "Lists, search and user feedback",
+    "zip": "CSC303_Lab_06.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 3
+  },
+  "CSC303_Lab_07": {
+    "name": "AppBar, Drawer, tabs and themes",
+    "zip": "CSC303_Lab_07.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 4
+  },
+  "CSC303_Lab_08": {
+    "name": "Provider and Cubit state management",
+    "zip": "CSC303_Lab_08.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 2
+  },
+  "CSC303_Lab_09": {
+    "name": "Shared preferences and Drift SQLite",
+    "zip": "CSC303_Lab_09.zip",
+    "files": 13,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/database.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 4
+  },
+  "CSC303_Lab_10": {
+    "name": "REST APIs, JSON and offline fallback",
+    "zip": "CSC303_Lab_10.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 4
+  },
+  "CSC303_Lab_11": {
+    "name": "Firebase Authentication",
+    "zip": "CSC303_Lab_11.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 5
+  },
+  "CSC303_Lab_12": {
+    "name": "Firestore, Storage and messaging",
+    "zip": "CSC303_Lab_12.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 5
+  },
+  "CSC303_Lab_13": {
+    "name": "MVVM, DI and tests",
+    "zip": "CSC303_Lab_13.zip",
+    "files": 18,
+    "code_files": [
+      "task_01/lib/data/course_repository.dart",
+      "task_01/lib/viewmodel/course_viewmodel.dart",
+      "task_01/lib/main.dart",
+      "task_01/test/course_viewmodel_test.dart",
+      "task_02/lib/course_math.dart",
+      "task_02/lib/main.dart",
+      "task_02/test/course_math_test.dart",
+      "task_02/test/widget_test.dart"
+    ],
+    "pdf_pages": 5
+  },
+  "CSC303_Lab_14": {
+    "name": "Animations and Android native channels",
+    "zip": "CSC303_Lab_14.zip",
+    "files": 13,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart",
+      "task_02/platform_overrides/android/app/src/main/kotlin/edu/cui/sahiwal/mad_native_demo/MainActivity.kt"
+    ],
+    "pdf_pages": 4
+  },
+  "CSC303_Lab_15": {
+    "name": "Integrated capstone and final project",
+    "zip": "CSC303_Lab_15.zip",
+    "files": 12,
+    "code_files": [
+      "task_01/lib/main.dart",
+      "task_02/lib/main.dart"
+    ],
+    "pdf_pages": 7
+  }
+}
